@@ -2,9 +2,7 @@
 
 Frontend Developer
 ------------------
-I'm a frontend developer who like to study React!
-
-**OnurOzcelikk/OnurOzcelikk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a frontend developer who like to study React.
 
 - 🔭 I’m currently working to Udemig
 - 🌱 I’m learning HTML,CSS,SCSS,JS.
